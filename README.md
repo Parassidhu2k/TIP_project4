@@ -30,7 +30,7 @@ Fraud_Indicator: The Fraud_Indicator does not show significant correlation with 
 Gender_Encoded: Shows no significant correlation with other features, suggesting that gender may not directly influence transaction characteristics.
 
 
-## 3 2. What are the top transaction categories by total transaction amount?
+## 2. What are the top transaction categories by total transaction amount?
 ![SS 2](https://github.com/user-attachments/assets/0c073fca-63f9-42eb-a4bc-464624625b56)
 
 ### Insights
