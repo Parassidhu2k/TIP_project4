@@ -407,7 +407,7 @@ plt.show()
 
 
 ## Tools and Technologies
-- **Programming Languages:** Python, R
+- **Programming Languages:** Python
 - **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow/Keras, XGBoost, imbalanced-learn
 - **Visualization Tools:** Matplotlib, Seaborn, Plotly
 - **Version Control:** Git, GitHub/GitLab
